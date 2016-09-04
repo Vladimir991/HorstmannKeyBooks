@@ -1,3 +1,5 @@
-.HorstmannKeyBooks/
-.target/
+
+/.idea
+/target
+/HorstmannKeyBooks.iml
 
