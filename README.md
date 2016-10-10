@@ -1,0 +1,1 @@
+The examples provided in this repository is written to strengthen practices after reading the book.
