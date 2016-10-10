@@ -1,1 +1,1 @@
-The examples provided in this repository is written to strengthen practices after reading the book.
+The examples in this repository are written by me to strengthen the practice after reading the book.
