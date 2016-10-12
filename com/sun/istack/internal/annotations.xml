@@ -1,5 +1,0 @@
-<root>
-  <item name='com.sun.istack.internal.NotNull'>
-    <annotation name='java.lang.annotation.Deprecated'/>
-  </item>
-</root>
