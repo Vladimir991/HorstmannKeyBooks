@@ -12,7 +12,7 @@ public class CalculatorPanel extends JPanel {
     private String lastCommand;
     private boolean start;
 
-    public CalculatorPanel(int i, int i1) {
+    public CalculatorPanel() {
         setLayout(new BorderLayout());
         result = 0;
         lastCommand = "=";
@@ -30,19 +30,22 @@ public class CalculatorPanel extends JPanel {
         addButton("7", insert);
         addButton("8", insert);
         addButton("9", insert);
-        addButton("/", insert);
+        addButton("/", command);
+
         addButton("4", insert);
         addButton("5", insert);
         addButton("6", insert);
-        addButton("*", insert);
+        addButton("*", command);
+
         addButton("1", insert);
         addButton("2", insert);
         addButton("3", insert);
-        addButton("-", insert);
+        addButton("-", command);
+
         addButton("0", insert);
         addButton(".", insert);
-        addButton("=", insert);
-        addButton("+", insert);
+        addButton("=", command);
+        addButton("+", command);
 
         add(panel, BorderLayout.CENTER);
     }
@@ -79,16 +82,23 @@ public class CalculatorPanel extends JPanel {
     }
 
     public void calculate(double x) {
-        if (lastCommand.equals("+"))
-            result += x;
-        else if (lastCommand.equals("-"))
-            result -= x;
-        else if (lastCommand.equals("*"))
-            result *= x;
-        else if (lastCommand.equals("/"))
-            result /= x;
-        else if (lastCommand.equals("="))
-            result = x;
+        switch (lastCommand) {
+            case "+":
+                result += x;
+                break;
+            case "-":
+                result -= x;
+                break;
+            case "*":
+                result *= x;
+                break;
+            case "/":
+                result /= x;
+                break;
+            case "=":
+                result = x;
+                break;
+        }
         display.setText("" + result);
     }
 }
