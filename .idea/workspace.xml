@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bc04dab-5c7a-448a-999d-a047318b49fe" name="Default" comment="">
+    <list default="true" id="7bc04dab-5c7a-448a-999d-a047318b49fe" name="Default" comment="We create example ToolBarFrame.">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HorstmannKeyBooks.iws" />
@@ -34,16 +35,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ToolBarFrame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ToolBarFrame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/ToolBar/ToolBarFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82462686">
+            <state vertical-scroll-proportion="0.0">
               <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#943#944#0" expanded="true" />
                 <element signature="e#989#990#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.06938776">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,11 +143,11 @@
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/ComboBox/ComboBoxMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Slider/SliderMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Slider/SliderFrame.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Menu/MenuMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Menu/MenuFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/ToolBar/ToolBarFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/ToolBar/ToolBarMain.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -544,13 +555,7 @@
       <workItem from="1477150464701" duration="550000" />
       <workItem from="1477157554277" duration="48000" />
       <workItem from="1477222354141" duration="3861000" />
-      <workItem from="1477295886438" duration="3731000" />
-    </task>
-    <task id="LOCAL-00009" summary="Finish example ConstructorTest.&#10;In this program demonstrates the construction of objects.">
-      <created>1473327955721</created>
-      <option name="number" value="00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1473327955721</updated>
+      <workItem from="1477295886438" duration="3799000" />
     </task>
     <task id="LOCAL-00010" summary="Create package name ChapterFive.Inheritance">
       <created>1473347141239</created>
@@ -840,11 +845,17 @@
       <option name="project" value="LOCAL" />
       <updated>1477300612406</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="We create example ToolBarFrame.">
+      <created>1477301787934</created>
+      <option name="number" value="00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1477301787934</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180819000" />
+    <option name="totallyTimeSpent" value="180887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="756" y="0" width="617" height="744" extended-state="0" />
@@ -863,7 +874,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42320818" sideWeight="0.48260212" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.9778535" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.59605026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.59605026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2658228" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
@@ -1237,23 +1248,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09090909">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/ToolBar/ToolBarFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82462686">
+        <state vertical-scroll-proportion="0.0">
           <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#943#944#0" expanded="true" />
             <element signature="e#989#990#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06938776">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
