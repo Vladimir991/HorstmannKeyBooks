@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bc04dab-5c7a-448a-999d-a047318b49fe" name="Default" comment="We create example ToolBarFrame.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HorstmannKeyBooks.iws" />
@@ -555,13 +554,7 @@
       <workItem from="1477150464701" duration="550000" />
       <workItem from="1477157554277" duration="48000" />
       <workItem from="1477222354141" duration="3861000" />
-      <workItem from="1477295886438" duration="3799000" />
-    </task>
-    <task id="LOCAL-00010" summary="Create package name ChapterFive.Inheritance">
-      <created>1473347141239</created>
-      <option name="number" value="00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1473347141240</updated>
+      <workItem from="1477295886438" duration="3881000" />
     </task>
     <task id="LOCAL-00011" summary="We create example ManagerTest.&#10;In this program demonstrates inheritance.">
       <created>1473377072297</created>
@@ -851,11 +844,17 @@
       <option name="project" value="LOCAL" />
       <updated>1477301787934</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="We create example ToolBarFrame.">
+      <created>1477301846219</created>
+      <option name="number" value="00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1477301846219</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180887000" />
+    <option name="totallyTimeSpent" value="180969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="756" y="0" width="617" height="744" extended-state="0" />
@@ -871,7 +870,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.86860067" sideWeight="0.48638427" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7559727" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32971016" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42320818" sideWeight="0.48260212" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4224599" sideWeight="0.48260212" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.9778535" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.59605026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
