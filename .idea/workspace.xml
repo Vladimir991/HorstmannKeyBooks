@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bc04dab-5c7a-448a-999d-a047318b49fe" name="Default" comment="We create example FontFrame.">
+    <list default="true" id="7bc04dab-5c7a-448a-999d-a047318b49fe" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HorstmannKeyBooks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.060606062">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -596,13 +595,7 @@
       <workItem from="1477222354141" duration="3861000" />
       <workItem from="1477295886438" duration="4221000" />
       <workItem from="1477302344933" duration="481000" />
-      <workItem from="1477304072969" duration="3810000" />
-    </task>
-    <task id="LOCAL-00016" summary="We create example ReflectionTest.&#10;In this program, reflection is used to display all components of the class.&#10;">
-      <created>1473681474833</created>
-      <option name="number" value="00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1473681474833</updated>
+      <workItem from="1477304072969" duration="3910000" />
     </task>
     <task id="LOCAL-00017" summary="We create example ObjectAnalyzerTest.&#10;In this program, reflection is used to track objects&#10;">
       <created>1473684121279</created>
@@ -892,11 +885,17 @@
       <option name="project" value="LOCAL" />
       <updated>1477310868997</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Removed file idea from gitignore.">
+      <created>1477310990986</created>
+      <option name="number" value="00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1477310990986</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185600000" />
+    <option name="totallyTimeSpent" value="185700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -978,7 +977,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="We create example DrawTest." />
     <MESSAGE value="We create example FontTest." />
     <MESSAGE value="We create example ImageTest.&#10;" />
     <MESSAGE value="Create file Readme.md" />
@@ -1003,7 +1001,8 @@
     <MESSAGE value="Add workspase.xml" />
     <MESSAGE value="workspase.xml" />
     <MESSAGE value="We create example FontFrame." />
-    <option name="LAST_COMMIT_MESSAGE" value="We create example FontFrame." />
+    <MESSAGE value="Removed file idea from gitignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed file idea from gitignore." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1353,7 +1352,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.060606062">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>
