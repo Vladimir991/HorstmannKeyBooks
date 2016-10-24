@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bc04dab-5c7a-448a-999d-a047318b49fe" name="Default" comment="We create example ToolBarFrame.">
+    <list default="true" id="7bc04dab-5c7a-448a-999d-a047318b49fe" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HorstmannKeyBooks.iws" />
@@ -554,13 +554,7 @@
       <workItem from="1477150464701" duration="550000" />
       <workItem from="1477157554277" duration="48000" />
       <workItem from="1477222354141" duration="3861000" />
-      <workItem from="1477295886438" duration="3881000" />
-    </task>
-    <task id="LOCAL-00011" summary="We create example ManagerTest.&#10;In this program demonstrates inheritance.">
-      <created>1473377072297</created>
-      <option name="number" value="00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1473377072297</updated>
+      <workItem from="1477295886438" duration="3893000" />
     </task>
     <task id="LOCAL-00012" summary="We create example PersonTest.&#10;In this program demonstrates the use of abstract classes.&#10;">
       <created>1473508895183</created>
@@ -850,11 +844,17 @@
       <option name="project" value="LOCAL" />
       <updated>1477301846219</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="We create example ToolBarFrame.">
+      <created>1477301926340</created>
+      <option name="number" value="00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1477301926341</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180969000" />
+    <option name="totallyTimeSpent" value="180981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="756" y="0" width="617" height="744" extended-state="0" />
