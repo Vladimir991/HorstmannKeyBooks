@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16e4c289-e027-4b0a-a837-7289003f0f5a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/CircleLayout/CircleLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/CircleLayout/CircleLayoutFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/CircleLayout/CircleLayoutMain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HorstmannKeyBooks.iws" />
@@ -431,11 +428,17 @@
       <option name="project" value="LOCAL" />
       <updated>1477390529216</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="We created example CircleLayoutFrame.">
+      <created>1477397982706</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1477397982706</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9142000" />
+    <option name="totallyTimeSpent" value="9175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -485,7 +488,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="We created example FontFrame." />
-    <option name="LAST_COMMIT_MESSAGE" value="We created example FontFrame." />
+    <MESSAGE value="We created example CircleLayoutFrame." />
+    <option name="LAST_COMMIT_MESSAGE" value="We created example CircleLayoutFrame." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
