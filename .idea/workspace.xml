@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e4c289-e027-4b0a-a837-7289003f0f5a" name="Default" comment="We created example CircleLayoutFrame.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/OptionDialog/ButtonPanel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/OptionDialog/OptionDialogFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/OptionDialog/OptionDialogMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/OptionDialog/SampleComponent.java" />
+    <list default="true" id="16e4c289-e027-4b0a-a837-7289003f0f5a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HorstmannKeyBooks.iws" />
@@ -492,11 +488,17 @@
       <option name="project" value="LOCAL" />
       <updated>1477397982706</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="We created example OptionDialogFrame.">
+      <created>1477407650159</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1477407650159</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16570000" />
+    <option name="totallyTimeSpent" value="16597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -547,7 +549,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="We created example FontFrame." />
     <MESSAGE value="We created example CircleLayoutFrame." />
-    <option name="LAST_COMMIT_MESSAGE" value="We created example CircleLayoutFrame." />
+    <MESSAGE value="We created example OptionDialogFrame." />
+    <option name="LAST_COMMIT_MESSAGE" value="We created example OptionDialogFrame." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
