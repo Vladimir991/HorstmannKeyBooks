@@ -15,7 +15,7 @@ public class DialogFrame extends JFrame {
         JMenu fileMenu = new JMenu("File");
         menuBar.add(fileMenu);
 
-        JMenuItem aboutItem = new JMenuItem("About");
+        JMenuItem aboutItem = new JMenuItem("About me");
         aboutItem.addActionListener(e -> {
             if (dialog == null)
                 dialog = new AboutDialog(DialogFrame.this);

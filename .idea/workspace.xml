@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e4c289-e027-4b0a-a837-7289003f0f5a" name="Default" comment="&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialogMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/DialogFrame.java" />
+    <list default="true" id="16e4c289-e027-4b0a-a837-7289003f0f5a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialog.java" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/DialogFrame.java" afterPath="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/DialogFrame.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HorstmannKeyBooks.iws" />
@@ -37,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DialogFrame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DialogFrame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/DialogFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78966135">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -51,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AboutDialogMain.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AboutDialogMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialogMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.36363637">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
@@ -101,9 +100,9 @@
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/OptionDialog/ButtonPanel.java" />
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/OptionDialog/OptionDialogMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/OptionDialog/OptionDialogFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/DialogFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialog.java" />
         <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialogMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/DialogFrame.java" />
       </list>
     </option>
   </component>
@@ -465,7 +464,7 @@
       <workItem from="1477382500926" duration="4626000" />
       <workItem from="1477388740095" duration="1786000" />
       <workItem from="1477437037398" duration="113000" />
-      <workItem from="1477455355063" duration="2631000" />
+      <workItem from="1477455355063" duration="3979000" />
     </task>
     <task id="LOCAL-00001" summary="We created example FontFrame.">
       <created>1477390529216</created>
@@ -485,11 +484,17 @@
       <option name="project" value="LOCAL" />
       <updated>1477407650159</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="We created example DialogFrame.">
+      <created>1477461050148</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1477461050148</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19801000" />
+    <option name="totallyTimeSpent" value="21149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -508,7 +513,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3225256" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6218638" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -541,7 +546,8 @@
     <MESSAGE value="We created example FontFrame." />
     <MESSAGE value="We created example CircleLayoutFrame." />
     <MESSAGE value="We created example OptionDialogFrame." />
-    <option name="LAST_COMMIT_MESSAGE" value="We created example OptionDialogFrame." />
+    <MESSAGE value="We created example DialogFrame." />
+    <option name="LAST_COMMIT_MESSAGE" value="We created example DialogFrame." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -595,10 +601,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialogMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/DialogFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -606,17 +612,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/DialogFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ChapterNine/UIComponentsInSwing/Dialog/AboutDialogMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78966135">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.36363637">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
