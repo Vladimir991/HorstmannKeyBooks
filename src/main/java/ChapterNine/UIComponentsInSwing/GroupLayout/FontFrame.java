@@ -14,7 +14,6 @@ public class FontFrame extends JFrame {
     private JCheckBox bold;
     private JCheckBox italic;
     private JTextArea sample;
-    private JScrollPane pane;
 
     public FontFrame() {
         ActionListener listener = EventHandler.create(ActionListener.class, this, "updateSample");
@@ -40,7 +39,7 @@ public class FontFrame extends JFrame {
         sample.setLineWrap(true);
         sample.setBorder(BorderFactory.createEtchedBorder());
 
-        pane = new JScrollPane(sample);
+        JScrollPane pane = new JScrollPane(sample);
 
         GroupLayout layout = new GroupLayout(getContentPane());
         setLayout(layout);
